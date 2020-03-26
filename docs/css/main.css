@@ -1,0 +1,17 @@
+.table-ac {
+    background-color: #FDD10A;
+    color: #834B16;
+}
+.bg-warning {
+    background-color: #FDD10A;
+}
+.table {
+    background-color: #FDD10A;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 60%;
+}
